@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url('mothers-day-16.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+    background-image:url('ezgif-4-3db21e6353.gif');
+    background-repeat: no-repeat;
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: darkviolet;
+}
+
+#btn
+{
+    background-color: darkmagenta;
+    font-style: bold;
+    color: black;
+}
